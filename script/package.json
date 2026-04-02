@@ -31,7 +31,7 @@
     "klaw-sync": "^1.1.2",
     "legal-eagle": "0.14.0",
     "lodash.startcase": "4.4.0",
-    "lodash.template": "4.5.0",
+    "lodash.template": "4.18.1",
     "minidump": "^0.22.0",
     "mkdirp": "0.5.1",
     "nock": "^13.0.2",
